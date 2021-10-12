@@ -1,0 +1,103 @@
+<HTML>
+<HEAD>
+<TITLE> EMERGENCY HELPING HAND </TITLE>
+</HEAD>
+<BODY BGCOLOR="CACFB9">
+<h1 style="color:104F65;"align=center><FONT SIZE="8">DISASTER  MANAGEMENT  AND  EMERGENCY INFORMATION</FONT></H1>
+<p><FONT SIZE="5" STYLE="LUCID SANS" align="center">A one stop solution for all the information , knowledge and help needed before , at and after the disaster or any emergency. </FONT></P>
+
+       <br><body background="C:\Users\priyabhayani26\Downloads\Hackathon\photos\yes2.png " Style="background-repeat:no-repeat;background-size:100%100%">
+ <hr />
+  <ul TYPE="SQUARE">
+  <li class="dropdown mega-dropdown active">
+		<a class="color1" href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:18px; color:0C7B73"><H3> Choose :</H3><span class="caret"></span></a>				
+		<div id="clsdiv" class="dropdown-menu mega-dropdown-menu" style="width:220PX; overflow-y:scroll; height:400px">
+                <div class="col2">
+                <div class="h_nav">
+                <h4 style="margin-left:5px">NATURAL HAZARDS</h4>
+		<ul TYPE="DISC">
+                <li>
+                <a href="cplus.html"><FONT COLOR=51620C>Cyclone »</FONT></a></li>
+		<li><a href="data.html"><FONT COLOR=622C0C>Earthquake »</FONT></a></li>
+		<li><a href="VB.html"><FONT COLOR=51620C>Tsunami »</FONT></a></li>
+		<li><a href="java.html"><FONT COLOR=622C0C>Landslides »</FONT></a></li>
+                <li><a href="net.html"><FONT COLOR=51620C>Floods »</FONT></a></li>
+                <li><a href="sql.html"><FONT COLOR=622C0C>Heat wave »</FONT></a></li>
+             
+		</ul>	
+                <br/>
+                <h4 style="margin-left:10px">MAN MADE HAZARDS</h4>
+                <ul TYPE="DISC">
+                <li><a href="oracle.html"><FONT COLOR=51620C>Chemical »</FONT></a></li>
+                <li><a href="mysql.html"><FONT COLOR=622C0C>Nuclear »</FONT></a></li>
+                <li><a href="myaccess.html"><FONT COLOR=51620C>Biological »</FONT></a></li>
+                </ul>
+                </div></div>
+                <div class="col2">
+		<div class="h_nav">
+		<h4 style="margin-left:10px">EMERGENCIES </h4>
+		<ul TYPE="DISC">
+	        <li><a href="DGCA.html"><FONT COLOR=622C0C>Indian Railways »</FONT></a></li>								
+	        <li><a href="tally.html"><FONT COLOR=51620C>Blood bank »</FONT></a></li>				
+                <li><a href="about.html"><FONT COLOR=622C0C>Birds and Animal helpline »</FONT></a></li>
+	        </ul>
+		</div>							
+		</div>
+		<div class="col2">
+		<div class="h_nav">
+								 
+                <h4 style="margin-left:10px">HELPLINE </h4>
+                <ul TYPE="DISC">
+                <li><a href="animation.html"><FONT COLOR=51620C>Women Helpline »</FONT></a></li>
+                <li><a href="WEbDesign.html"><FONT COLOR=622C0C>Men's Helpline »</FONT></a></li>
+                <li><a href="2d.html"><FONT COLOR=51620C>Senior Citizen Helpline »</FONT></a></li>  
+                </ul>
+		<br/>
+                <h4 style="margin-left:10px">MENTAL HEALTH </h4>
+                <ul type="disc">
+                <li><a href="softwaretest.html"><FONT COLOR=622C0C>Suicide and stress Helpline »</FONT></a></li>
+                <li><a href="2d.html"><FONT COLOR=51620C>Domestic and Sexual violence »</FONT></a></li>
+                <li><a href="2d.html"><FONT COLOR=622C0C>Eating Disorders »</FONT></a></li> 
+                <li><a href="2d.html"><FONT COLOR=51620C>Alcohol and substance Abuse »</FONT></a></li>
+                </div>
+                </div>
+                     
+		
+                </ul>
+                </ul>
+		</div>							
+		</div>
+		</div>				
+		</li>
+     <BR>
+     <BR>
+     <BR>
+
+    <P> 
+
+     <BR>
+     <BR>
+     <BR>
+   ........... <img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\handy.png" height="600" width="1100" border="3" >
+
+
+      <br>
+      <br>
+      <br>
+
+......<A HREF="C:\Users\priyabhayani26\Downloads\Hackathon\photos\CYCLONE.png"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\CYCLONE.png" height="220" width="270" ></A> ... <A HREF="Trial.html"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\landslides.png" height="220" width="270" ></A> ... <A HREF="Trial.html"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\tsunami.png" height="220" width="270" ></A> ... <A HREF="Trial.html"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\eathquake.png" height="220" width="270" ></A>......
+<BR>
+<BR>
+......................<A HREF="C:\Users\priyabhayani26\Downloads\Hackathon\Please.html"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\floods.png" height="220" width="280" ></A>   ...................  <A HREF="Trial.html"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\heat wave.png" height="220" width="280" ></A> ....................<A HREF="Trial.html"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\CHEMICAL.PNG" height="220" width="280"></A>................
+<BR>
+<BR>
+......<A HREF="trial.html"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\BIOLOGICAL.PNG" height="220" width="270" ></A> ... <A HREF="Trial.html"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\BLOOD BANK.PNG" height="220" width="270" ></A> ... <A HREF="Trial.html"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\nuclear.png" height="220" width="270"></A> ... <A HREF="Trial.html"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\h2.jpg" height="220" width="270"></A>......
+<BR>
+<BR>
+........................<A HREF="C:\Users\priyabhayani26\Downloads\Hackathon\Please.html"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\h2.jpg" height="220" width="270" ></A> .................... <A HREF="Trial.html"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\h2.jpg" height="220" width="270" ></A> ......................<A HREF="Trial.html"><img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\ABOUTUS.PNG" height="220" width="270"></A>.................
+  <hr />
+  </ul>
+
+</BODY>
+</HEAD>
+</HTML>
