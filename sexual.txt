@@ -1,0 +1,54 @@
+<html>
+<head><title> MENTAL HEALTH COUNSELLING  </title>
+</head>
+<body background="C:\Users\priyabhayani26\Downloads\Hackathon\photos\MENTALIN19.png" style="background-repeat:no-repeat; background-size:100%100%">
+<h1 align ="center"><font size="12"> SEXUAL HEALTH  </FONT SIZE> </H1> 
+<br>
+<br>
+<table>
+<tr>
+
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th><img src="_____.jpg" height="500" width="800"></th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+
+<th><p align="center"><font size="6">HELPLINE NUMBER:</font size></p>
+    <p align="center"> Dial 1097 (toll free)</p>
+    <p align="center"> Website: https://nhp.gov.in</p>
+    <p align="center"> Counselling : www.betterhelp.com</p>
+    <p align="center"> Phone: +91 84 9493 3888</p>
+    <p align="center"> Phone: +91 11 41325042, +91 11 40793157/58. </p>
+    <p align="center"> Phone: 1800-121-5323 </p>
+    
+</tr>
+</table>
+</body>
+</html>

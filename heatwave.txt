@@ -1,0 +1,163 @@
+<html>
+<head>
+<br>
+<br>
+ <h1 style="text-align:center;"><font size="10">HEAT WAVE</font size></h1>
+</head>
+<body background="bg2.png" style="background-repeat:no-repeat; background-size:100%100%">
+<br>
+<br>
+<br>
+
+<table>
+<tr>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th> <img src="hw.jpg" height="600" width="900" border="3"></th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th><p align="center"><font size="6"> CONTACT:</font size></p>
+    <p align="center"> Helpful sites: Department of Human Services SA </p>
+    <p align="center"> National Disaster Management Authorithy </p>
+    <p align="center"> Army helpline numbers: 011- 23332045, 011- 23019831, 011- 23322045 </p>
+    <p align="center"> Telephone: 1800 364 100 </p>
+    <p align="center"> SafeWork SA website - Heat and UV exposure </p>
+    <p align="center"> NDRF HELPLINE : 9711077372 , 011-24363260 </p>
+    <p align="center"> Web: https://mausam.imd.gov.in </p></th>
+</table>
+
+<br>
+<br>
+<br>
+<br>
+
+<table>
+<tr>
+
+<td><h2> DO'S</h2>
+<p><font size="4">1] Listen to Radio, watch TV, read Newspaper for local weather forecast
+to know if a heat wave is on the way</p>
+<p>2] Drink sufficient water and as often as possible, even if not thirsty </p>
+<p>3Wear light weight, light-coloured, loose, and porous cotton clothes.
+Use protective goggles, umbrella/hat, shoes or chappals while going
+out in sun.  </p>
+<p>4]Use ORS, coconut water homemade drinks like lassi, torani (rice
+water), lemon water, buttermilk, etc. which help to re-hydrate the
+body. </p>
+<p>5]Recognize the signs of heat stroke, heat rash or heat cramps such as
+weakness, dizziness, headache, nausea, sweating and seizures. If
+you feel faint or ill, see a doctor immediately.</p>
+</td>
+<th>  </th>
+<td><h2> DON'TS</h2>
+<p><font size="4">1] Don't spread or believe in rumours. </p>
+<p>2]  Avoid alcohol, tea, coffee and carbonated soft drinks, which
+dehydrates the body.</p>
+<p>3] Avoid strenuous activities when the outside temperature is high. Avoid
+working outside between 12 noon and 3 p.m.  </p>
+<p>4] Do not leave children or pets in parked vehicles.  </p>
+<p>5] Avoid cooking during peak hours. Open doors and windows to
+ventilate cooking area adequately. </p>
+</td>
+<th>  </th>
+<th>  </th>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<h2> ADDITIONAL INFORMATION </h2>
+<p><font size ="4"> A heat wave, or heatwave, is a period of excessively hot weather, which may be accompanied by high humidity, especially in oceanic climate countries.: 
+While definitions vary,[2] a heat wave is usually measured relative to the usual weather in the area and relative to normal temperatures for the season.
+</p>
+<p>(i)   Including daytime events (extreme Tmax only) </p>
+<p>(ii)  nighttime events (extreme Tmin only) </p>
+<p>(iii) compound events (extreme Tmax and Tmin)</p>
+<p> The term is applied both to hot weather variations and to extraordinary spells of hot which may occur only once a century. Severe heat waves have caused catastrophic crop failures, thousands of deaths from hyperthermia, and widespread power outages due to increased use of air conditioning. </p>
+<p> A heat wave is considered extreme weather that can be a natural disaster, and a danger because heat and sunlight may overheat the human body. Heat waves can usually be detected using forecasting instruments so that a warning call can be issued.
+A heat wave occurs when the tempeature ousides exceeds 40 degree celcius.
+</p>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+<img src="imageHW.png" height="500"  width="1200" border="3">
+</div>
+<br>
+<br>
+<br>
+<br>
+<table>
+<tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th><h2 align="left"> EMERGENCY KIT </h2>
+
+<P align="left"> (i)    Water bottle</p>
+<P align="left"> (ii)   Umbrella/ Hat or Cap / Head Cover</p>
+<P align="left"> (iii)  Hand Towel</p>
+<P align="left"> (iv)   First aid kit and neccasry medicines</p>
+<P align="left"> (v)    Hand Fan</p>  
+<P align="left"> (vii)  Electrolyte / Glucose / Oral Rehydration</p>
+
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+
+<th><img src="kitHW.jpg" height="400" width="600" border="3"</th>
+</tr>
+</table>
+<br>
+<br>
+
+<h4> EXTRA INFORMATION </h4>
+<p>:https://www.who.int 
+</p>
+
+  </body>
+ </html>

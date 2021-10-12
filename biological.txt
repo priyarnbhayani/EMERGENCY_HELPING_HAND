@@ -1,0 +1,152 @@
+<html>
+<head>
+<br>
+<br>
+ <h1 style="text-align:center;"><font size="10"> BIOLOGICAL HAZARD</font size></h1>
+</head>
+<body background="C:\Users\priyabhayani26\Downloads\Hackathon\photos\MENTALIN17.png" style="background-repeat:no-repeat; background-size:100%100%">
+<br>
+<br>
+<br>
+
+<table>
+<tr>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th> <img src="imageB.jpg" height="600" width="900" border="3"></th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th><p align="center"><font size="6"> CONTACT:</font size></p>
+    <p align="center">NDMA Bhawan </p>
+    <p align="center"> A-1, Safdarjung Enclave </p>
+    <p align="center"> New Delhi - 110029 </p>
+    <p align="center"> Telephones: +91-11-26701700 </p>
+    <p align="center"> Control Room: +91-11-26701728  </p>
+    <p align="center"> Fax: +91-11-26701729</p>
+</th>
+</table>
+
+<br>
+<br>
+<br>
+<br>
+
+<table>
+<tr>
+
+<td><h2> DO'S</h2>
+<p><font size="4">1] Hand Hygiene. </p>
+<p>2]Encourage drinking of water from a safe source or water that has been disinfected (chlorinated). Add bleaching powder in all community wells at regular intervals. Use water pumped out from India Mark II hand pumps, if installed in the village/community. </p>
+<p>3] Drink boiled potable water in an emergency that has been boiled for at least 15 minutes and consumed it the same day.</p>
+<p>4] Promote storage of water in narrow mouthed container.  </p>
+<p>5]Cook food thoroughly especially meat, poultry, eggs and seafood until it is steaming and eat it while it is still hot.  </p>
+
+
+</td>
+<th>  </th>
+<td><h2> DON'TS</h2>
+<p><font size="4">1] Do not drink water from unsafe sources.</p>
+<p>2]Do not eat uncooked food unless it is peeled or shelled. </p>
+<p>3]Do not leave cooked food at room temperature longer than 2 hours. </p>
+<p>4]Do not consume cut fruits from vendors.</p>
+<p>5]Do not defecate in open area.</p>
+</td>
+<th>  </th>
+<th>  </th>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<h2> ADDITIONAL INFORMATION </h2>
+<p><font size ="4"> Biological disasters are natural scenarios involving disease, disability or death on a large scale among humans, animals and plants due to micro-organisms like bacteria, or virus or toxins. 
+</p>
+<p>(i)   Malaria, Dengue Fever </p>
+<p>(ii)  Meningitis, Influenza</p>
+<p>(iii) Pest infestations</p>
+<p>(iv)  Zoonoses </p>
+<p>(v)   Medical waste </p>
+
+<p> Processes of organic origin or those conveyed by biological vectors, including exposure to pathogenic micro-organisms, toxins and bioactive substances, which may cause the loss of life or injury, property damage, social and economic disruption or environmental degradation.</p>
+
+<p>The biological element of this hazard can in many cases occur naturally in the environment however they most often impact human populations when they are introduced or favorable conditions exist.</p>
+
+<p>Biological substances are classified as hazardous due to toxicity.  Toxicity is one of four factors used to classify hazardous wastes and refers to the degree of damage the substance can do to a living organism i.e. the  effect on the whole organism.</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+<img src="bio.jpg" height="500"  width="1200" border="3">
+</div>
+<br>
+<br>
+<br>
+<br>
+<table>
+<tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th><h2 align="left"> EMERGENCY KIT </h2>
+
+<P align="left"> (i)    Oral Rehydration Solution (ORS) sachets.</p>
+<P align="left"> (ii)   Tablet Paracetamol.</p>
+<P align="left"> (iii)  Tablet Anti-diarrhoea.</p>
+<P align="left"> (iv)   Tablet Anti-spasmodic.</p>
+
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+
+<th><img src="kitR.jpg" height="400" width="600" border="3"</th>
+</tr>
+</table>
+<br>
+<br>
+
+
+  </body>
+ </html>

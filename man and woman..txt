@@ -1,0 +1,40 @@
+<html>
+<head><title> MENTAL HEALTH COUNSELLING  </title>
+</head>
+<body background="_____.png" style="background-repeat:no-repeat; background-size:100%100%">
+<br>
+<br>
+<h1 align ="center"><font size="12"> MAN AND WOMEN HELPLINE  </FONT SIZE> </H1> 
+<br>
+<br>
+<table>
+<tr>
+
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th><img src="_____.jpg" height="500" width="800"></th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+
+<th><p align="center"><font size="6">HELPLINE NUMBER:</font size></p>
+    <p align="center"> Women Helpline ( All India ) -Women In Distress: 1091 </p>
+    <p align="center"> Women Helpline Domestic Abuse : 181</p>
+    <p align="center"> National Commison For Women (NCW): 011-26942369, 26944754</p>
+    <p align="center"> Men in distress: 8882-498-498</p>
+    <p align="center"> Website: https://indianhelpline.com/</p>
+    <p align="center"> National Helpline Number for Men · 1607076_976263589054921</p>
+</tr>
+</table>
+</body>
+</html>
+

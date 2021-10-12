@@ -1,0 +1,161 @@
+<html>
+<head>
+<br>
+<br>
+ <h1 style="text-align:center;"><font size="10"> FLOOD</font size></h1>
+</head>
+<body background="bg2.png" style="background-repeat:no-repeat; background-size:100%100%">
+<br>
+<br>
+<br>
+
+<table>
+<tr>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th> <img src="flood.jpg" height="600" width="900" border="3"></th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th>  </th>
+<th><p align="center"><font size="6"> CONTACT:</font size></p>
+    <p align="center"> MHA control room numbers: 011- 23093054, 23092763,     23092923,23093566, 23093563. </p>
+    <p align="center"> National Disaster Management Authorithy </p>
+    <p align="center"> Army helpline numbers: 011- 23332045, 011- 23019831, 011- 23322045 </p>
+    <p align="center"> Flood Helpline : 1070 or 9557444486 </p>
+    <p align="center"> In Flood situation call : 112 , 100 , 1078 </p>
+    <p align="center"> NDRF HELPLINE : 9711077372 , 011-24363260 </p>
+    <p align="center"> Email:ndrfhq@nic.in. </p>
+    <p align="center"> Web: www.ndma.gov.in </p></th>
+</table>
+
+<br>
+<br>
+<br>
+<br>
+
+<table>
+<tr>
+
+<td><h2> DO'S</h2>
+<p><font size="4">1] Switch off electrical and gas appliances, and turn off services off at the mains.</p>
+<p>2] Carry your emergency kit and let your friends and family know where you are going. </p>
+<p>3]Avoid contact with flood water it may be contaminated with sewage,oil,chemicals or other substances. </p>
+<p>4]If the ceiling is wet shut off electricity. Place a bucket underneath the spot and poke a small hole into the ceiling to relieve the pressure.</p>
+<p>5] Listen to the radio or television for updates and information.</p>
+</td>
+<th>  </th>
+<td><h2> DON'TS</h2>
+<p><font size="4">1] Don't spread or believe in rumours. </p>
+<p>2]Do not attempt to drive or ride any vehicle during the flood. </p>
+<p>3] Don’t eat any food that has come into contact with flood water </p>
+<p>4] Never turn on ceiling fixtures if ceiling is wet. Stay away from ceilings those are sagging.</p>
+<p>5] Don’t walk through flowing water – currents can be deceptive, and shallow, fast moving water can knock you off your feet. </p>
+</td>
+<th>  </th>
+<th>  </th>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<h2> ADDITIONAL INFORMATION </h2>
+<p><font size ="4"> A flood is an overflow of water that submerges land that is usually dry. ... Floods can also occur in rivers when the flow rate exceeds the capacity of the river channel, particularly at bends or meanders in the waterway. Floods often cause damage to homes and businesses if they are in the natural flood plains of rivers.floods are of following types: 
+</p>
+<p>(i)   Fluvial floods  </p>
+<p>(ii)  Pluvial floods</p>
+<p>(iii) Coastal flood </p>
+<p> Floods can also occur in rivers when the flow rate exceeds the capacity of the river channel, particularly at bends or meanders in the waterway. Floods often cause damage to homes and businesses if they are in the natural flood plains of rivers.</p>
+<p> looding can lead to secondary consequences in addition to damage to property, such as long-term displacement of residents and creating increased spread of waterborne diseases and vector-bourne disesases transmitted by mosquitos.
+In India, floods have respective stages:
+</p>
+<p> (i)   Action Stage</p>
+<p> (ii)  Minor Flood Stage</p>
+<p> (iii) Moderate Flood Stage</p>
+<p> (iv)  Major Flood Stage</p>
+<p> (v)   Record Flood Stage</p>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+<img src="imageF.png" height="500"  width="1200" border="3">
+</div>
+<br>
+<br>
+<br>
+<br>
+<table>
+<tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th><h2 align="left"> EMERGENCY KIT </h2>
+
+<P align="left"> (i)    Battery operated torch</p>
+<P align="left"> (ii)   Extra batteries</p>
+<P align="left"> (iii)  Battery operated radio</p>
+<P align="left"> (iv)   First aid kit and neccasry medicines</p>
+<P align="left"> (v)    Important papers( ration card, voter ID card, Aadhar card etc)</p>
+<P align="left"> (vi)   Emergency food( dry items) and water ( packed and sealed)</p>
+<P align="left"> (vii)  Candles and matchbox in water proof container</p>
+<P align="left"> (viii) knife</p>
+<P align="left"> (ix)   Chlorine tblets or powerered water purifiers.</p>
+<P align="left"> (x)    Thick ropes and chords  </p></th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+
+<th><img src="kitF.jpg" height="400" width="600" border="3"</th>
+</tr>
+</table>
+<br>
+<br>
+
+<h4> EXTRA INFORMATION </h4>
+<p>:https://www.ready.gov.in 
+</p>
+
+  </body>
+ </html>

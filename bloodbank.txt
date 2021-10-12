@@ -1,0 +1,57 @@
+<html>
+<head><title> Emergencies </title>
+</head>
+<body background="C:\Users\priyabhayani26\Downloads\Hackathon\photos\MENTALIN19.png" style="background-repeat:no-repeat; background-size:100%100%">
+<br>
+<br>
+<h1 align="center"><font size="12"> BLOOD BLANK HELPLINE</font size> </h1>
+<br>
+<br>
+<br>
+<table>
+<tr>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th><img src="_C:\Users\priyabhayani26\Downloads\Hackathon\photos\BLOODBANK1.jpg" height="500" width="800"></th>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+
+<th><p align="center"><font size="6">HELPLINE NUMBER:</font size></p>
+    <p align="center">  Blood Helpline Call : 07966772377</p>
+    <p align="center">  www.bloodbankindia.net  :  BLOOD BANK INDIA </p>
+    <p align="center">  www.indianredcross.org   ( 011-23359379 ) </p>
+    <p align="center">  Ambulance : 112 </p>
+    <p align="center">  website: https://ors.gov.in/ebloodbankportal/ </p>
+    <p align="center">   www.bloodhelpers.com </p>
+</tr>
+</table>
+</body>
+</html>

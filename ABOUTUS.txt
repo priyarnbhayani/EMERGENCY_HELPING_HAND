@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+<TITLE> EMERGENCY HELPING HAND - ABOUT US </TITLE>
+</HEAD>
+<BODY BGCOLOR="CACFB9">
+<h1 style="color:104F65;"align=center><FONT SIZE="7">MENTAL HEALTH </FONT></H1>
+<p><FONT SIZE="5" STYLE="LUCID SANS" align="center">  <BR> </FONT></P>
+<p ALIGN="RIGHT"><FONT SIZE="5" STYLE="LUCID SANS" ALIGN="RIGHT"> ~ Emery Lord................... </FONT></P>
+
+       <br><body background="C:\Users\priyabhayani26\Downloads\Hackathon\photos\MENTALIN3.png " Style="background-repeat:no-repeat;background-size:100%100%">
+<br>
+<img src="C:\Users\priyabhayani26\Downloads\Hackathon\photos\MENTALHEALTH.JFIF" height="220" width="280" >
+
+
+</BODY>
+</HTML>

@@ -1,0 +1,61 @@
+<html>
+<head><title> MENTAL HEALTH COUNSELLING  </title>
+</head>
+<body background="_____.png" style="background-repeat:no-repeat; background-size:100%100%">
+<h1 align="center"><font size="12"> </font size> </h1>
+
+<br>
+<h1 align ="center"><font size="12"> INDIA SUICIDE AND STRESS HELPLINE </FONT SIZE> </H1> 
+<br>
+<br>
+<table>
+<tr>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th><img src="_____.jpg" height="500" width="800"></th>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+
+<th><p align="center"><font size="6">HELPLINE NUMBER:</font size></p>
+    <p align="center">  104, Sunrise Arcade,</p>
+    <p align="center">  Plot No. 100, Sector 16, Koparkhairane,</p>
+    <p align="center">  Navi Mumbai - 400709 </p>
+    <p align="center">  Phone: 91-9820466726 </p>
+    <p align="center">  Email: aasrahelpline@yahoo.com </p>
+    <p align="center">  Phone:  1-866-615-6464 </p>
+    <p align="center">  Email:  nimhinfo@nih.gov </p>
+    <p align="center">  Fax:  1-301-443-4279 </p>
+    <p align="center">   TTY:  1-301-443-8431 </p>
+</tr>
+</table>
+</body>
+</html>
+

@@ -1,0 +1,54 @@
+<html>
+<head><title> MENTAL HEALTH COUNSELLING  </title>
+</head>
+<body background="C:\Users\priyabhayani26\Downloads\Hackathon\photos\MENTALIN19.png" style="background-repeat:no-repeat; background-size:100%100%">
+<h1 align ="center"><font size="12"> ALCOHOL AND SUBSTANCE ABUSE  </FONT SIZE> </H1> 
+<br>
+<br>
+<table>
+<tr>
+
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th><img src="_____.jpg" height="500" width="800"></th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </h>
+<th>   </h>
+<th>   </h>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+<th>   </th>
+
+<th><p align="center"><font size="6">HELPLINE NUMBER:</font size></p>
+    <p align="center"> Email us at : Indianhelpline@hotmail.com</p>
+    <p align="center"> Website: https://indianhelpline.com/</p>
+    <p align="center"> TEL : 1800-11-0031</p>
+    <p align="center"> TOBACCO QUIT HELPLINE :  - 1800-11-2356</p>
+    <p align="center">  800-662-HELP(4357)</p>
+    <p align="center"> TTY: 800-487-4889 </p>
+    
+</tr>
+</table>
+</body>
+</html>
